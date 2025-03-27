@@ -42,7 +42,7 @@ let dato = null;
 let SinValor;
 
 //bigint
-let numerosgrrandes = 12312321321;
+let numerosgrrandes = 12312321321n;
 
 //symbol
 let id = Symbol(id);
